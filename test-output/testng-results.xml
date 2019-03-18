@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73528" started-at="2016-10-14T01:05:17Z" finished-at="2016-10-14T01:06:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73528" started-at="2016-10-14T01:05:17Z" finished-at="2016-10-14T01:06:30Z">
+      <class name="gri.gridd">
+        <test-method status="PASS" signature="testgrid()[pri:0, instance:gri.gridd@26b5f36e]" name="testgrid" duration-ms="73436" started-at="2016-10-14T06:35:17Z" finished-at="2016-10-14T06:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgrid -->
+      </class> <!-- gri.gridd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
